@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'Java常用工具类'
+rootProject.name = 'JavaTools'
